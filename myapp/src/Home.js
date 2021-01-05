@@ -1,12 +1,15 @@
 import React from 'react';
 import "./Home.css"
 import Product from './Product';
+// https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg
+// https://st4.depositphotos.com/8696740/26761/v/1600/depositphotos_267614420-stock-illustration-online-shopping-banner-vector-illustration.jpg
 
 function Home() {
     return (
         <div className="home">
             <div className="home__container">
-                <img className="home__img" src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg" alt=""/>
+                <img className="home__img" src=" https://st4.depositphotos.com/8696740/26761/v/1600/depositphotos_267614420-stock-illustration-online-shopping-banner-vector-illustration.jpg
+                " alt=""/>
                 <div className="home__row">
                     <Product id="12321341" title="The Lean Startup" price={29.99} image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg" rating={5}/>
                     <Product id="49538094" title="Kenwood kmix stand mixer For Baking , Stylish Kitchen Mixer with k-beater, Dough Hook and Whisk, 5litre Glass Bowl" price={239.0} rating={4} image=""/>
