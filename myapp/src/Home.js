@@ -12,7 +12,7 @@ function Home() {
                 " alt=""/>
                 <div className="home__row">
                     <Product id="12321341" title="The Lean Startup" price={29.99} image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg" rating={5}/>
-                    <Product id="49538094" title="Kenwood kmix stand mixer For Baking , Stylish Kitchen Mixer with k-beater, Dough Hook and Whisk, 5litre Glass Bowl" price={239.0} rating={4} image=""/>
+                    <Product id="49538094" title="Kenwood kmix stand mixer For Baking , Stylish Kitchen Mixer with k-beater, Dough Hook and Whisk, 5litre Glass Bowl" price={239.0} rating={4} image="https://i.pinimg.com/474x/cd/68/1a/cd681aaea6d7aee23e5d0fc0553458f1.jpg"/>
                     
 
                 </div>

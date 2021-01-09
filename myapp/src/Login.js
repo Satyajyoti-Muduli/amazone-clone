@@ -37,7 +37,7 @@ function Login() {
     return (
         <div className="login">
             <Link to="/">
-            <img className="login__logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png"/>
+            <img className="login__logo" src="https://scontent.fbbi1-2.fna.fbcdn.net/v/t1.0-9/69927072_104904540901873_2128774246472613888_n.png?_nc_cat=108&ccb=2&_nc_sid=dd9801&_nc_ohc=7YVD-4aupm4AX9ghvxL&_nc_ht=scontent.fbbi1-2.fna&oh=0ad0ad767c9004d3436b4e13e54b5bda&oe=601B6372"/>
             </Link>
 
             <div className="login__container">
